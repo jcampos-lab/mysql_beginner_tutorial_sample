@@ -1,2 +1,2 @@
-# mysql_beginner_tutorial_sample
-MySQL beginner tutorial with examples
+# This is a compilation of MySQL queries
+It showcases the fundamental basics of the structure query language MySQL and its execution in the workbench
